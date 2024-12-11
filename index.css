@@ -11,14 +11,14 @@
 
 }
 .span2{
-color: beige;
+color: rgb(88, 31, 210);
 }
 .div1{
-width: 200px;
-    color: violet;
+    width: 200px;
     height: 200px;
-    background-color: violet;
+    background-color: aqua;
     margin-top: 10px;
+    border-radius: 50%;
 
 }
 .div2{
